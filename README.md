@@ -9,10 +9,10 @@ This is a console-based RPG (Role-Playing Game) created as a project during high
 - **Turn-Based Combat:** Engage in tactical battles against various foes.
 - **Shop System:** Purchase essential items and equipment to aid you in your quest.
 
-![](//https://github.com/AlexandruCostea/ConsoleDungeon/blob/master/1.png)
-![](//https://github.com/AlexandruCostea/ConsoleDungeon/blob/master/2.png)
-![](//https://github.com/AlexandruCostea/ConsoleDungeon/blob/master/3.png)
-![](//https://github.com/AlexandruCostea/ConsoleDungeon/blob/master/4.png)
+![](https://github.com/AlexandruCostea/ConsoleDungeon/blob/master/1.png) <br><br>
+![](https://github.com/AlexandruCostea/ConsoleDungeon/blob/master/2.png) 
+![](https://github.com/AlexandruCostea/ConsoleDungeon/blob/master/3.png) <br><br>
+![](https://github.com/AlexandruCostea/ConsoleDungeon/blob/master/4.png)
 
 ## Technologies Used
 This project was built using:
